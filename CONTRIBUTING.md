@@ -6,6 +6,12 @@ The SimplePie Core Team welcomes everyone interested in the project. Members of 
 
 It is highly recommended that you become familiar with using SimplePie in your own projects before contributing directly to the code itself. We put together handy Getting Started guides with step-by-step instructions to get you up and running.
 
+## Proposing New Features
+
+New features or directions for SimplePie can come from anyone with a good idea. Open discussion and iteration over the ideas in a public forum is essential to reaching the best possible solutions.
+
+Things that are broader changes which impact a larger set of projects or the community at-large should be proposed as a _SimplePie Enhancement Proposal_ (SPEP). Information about proposing a new SPEP RFC can be found at [`simplepie/rfc`](https://github.com/simplepie/rfc).
+
 ## Contributing Code
 
 SimplePie's website exists primarily to welcome contributions from the community. In the simplest cases, one-off patches are welcome from everyone. However, regular contributors are expected to adopt processes that help create a culture of quality within the project.
@@ -14,8 +20,16 @@ We ask that contributors first read through the content in the Contributing sect
 
 Bugs for the various SimplePie projects are managed in the issue trackers of their respective repositories. Anyone can file bugs, or view them to find where they can help, or to see if a bug they found is already filed.
 
-## Proposing New Features
+### Workflow
 
-New features or directions for SimplePie can come from anyone with a good idea. Open discussion and iteration over the ideas in a public forum is essential to reaching the best possible solutions.
+Here's the (simple) process for contributing code:
 
-We are considering implementing a _SimplePie Proposal_ process to help evolve and improve the software over time. If we decide to move forward, we will provide more information about this over time.
+1. Fork Sample to your GitHub account.
+2. Clone your GitHub copy of the repository into your local workspace.
+3. Write code, fix bugs, and add tests with 100% code coverage.
+4. Commit your changes to your local workspace and push them up to your GitHub copy.
+5. You submit a GitHub pull request with a description of what the change is.
+6. The contribution is reviewed. Maybe there will be some banter back-and-forth in the comments.
+7. If all goes well, your pull request will be accepted and your changes are merged in.
+
+If you are looking for a prescribed workflow, please review [SPEP-2](https://github.com/simplepie/rfc/tree/master/SPEP-2).
