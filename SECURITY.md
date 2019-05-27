@@ -6,4 +6,4 @@ All reported vulnerabilities are investigated, so if you believe you've discover
 
 * Send me an [encrypted message via Keybase](https://keybase.io/encrypt#skyzyx).
 
-* Send me an email to <ryan@ryanparman.com> using my [PGP/GPG key](https://keybase.io/skyzyx/key.asc).
+* Send an email to <ryan@ryanparman.com> using my [PGP/GPG key](https://keybase.io/skyzyx/key.asc).
