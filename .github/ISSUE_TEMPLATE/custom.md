@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Other Issue Type
+about: Other types of issues should use this form.
 title: "[???] "
 labels: question
 assignees: ''
